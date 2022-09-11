@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width">
+
+    <title>replit</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+  </head>
+
+<body>
+
+    <div>
+
+        <h1>Dating App</h1>
+
+    </div>
+
+    <div>
+
+        <h3>Personal Information</h3>
+
+    </div>
+
+    <form>
+
+        <div>
+
+           Name: <input type="text"><br><br>
+
+           Email: <input type="email"><br><br>
+
+           Phone: <input type="tel" placeholder="numeric"><br><br>
+
+           Gender : <input type="radio" name="gender" id="male">Male
+
+                    <input type="radio" name="gender" id="female">female <br><br>
+
+            Date of Proposed Outing : <input type="date">
+
+        </div>
+
+        <div>
+
+            <h4>Check All that Apply to you :</h4>
+
+        </div>
+
+        <div>
+
+            <input type="checkbox"> I have Tattoos &/or piercings
+
+        </div>
+
+        <div>
+
+            <input type="checkbox"> I am more than 2 years older than your Daughter
+
+        </div>
+
+        <div>
+
+            <input type="checkbox"> I own a panel van or Ferrari 
+
+        </div>
+
+        <div>
+
+            <input type="checkbox"> I work full time
+
+        </div>
+
+        <div>
+
+            <input type="checkbox"> My Parents are Rich
+
+        </div>
+
+        <div>
+
+            <input type="checkbox"> Is the date at a private location?
+
+        </div>
+
+        <div>
+
+                <input type="checkbox"> Education Completed
+
+        </div><br>
+
+        <div>
+
+            <h4>Essay Section:</h4>
+
+        </div>
+
+        <div>
+
+            <label>Why do you want to date my daughter(50 words)?</label><br>
+
+            <textarea  cols="50" rows="8"></textarea>
+
+        </div><br>
+
+        
+
+        <div>
+
+            <label>Please Provide 1 contact point for your Reference</label><br>
+
+            <textarea  cols="50" rows="5"></textarea>
+
+        </div><br>
+
+        <div>
+
+            <button type="submit"><a href="">Submit</a></button>
+
+        </div>
+
+        
+
+    </form>
+
+</body>
+
+</html>
